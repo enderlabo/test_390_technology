@@ -30,17 +30,6 @@ APIError enum for service errors
 🧪 Testing
 ✅ DI Container for testable ViewModels
 
-
-🛠 Updated Tech Stack
-Category	Technologies Used
-Architecture	Clean Architecture + MVVM + Coordinator
-Networking	URLSession + Combine
-Image Cache	Kingfisher
-Local DB	CoreData
-Security	Keychain + HTTPS
-UI	UIKit (Programmatic)
-DI	Custom DIContainer
-
 🚀 Installation (Updated)
 Add Kingfisher via SPM:
 
